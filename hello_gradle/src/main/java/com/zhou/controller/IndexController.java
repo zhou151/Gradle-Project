@@ -11,12 +11,12 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class IndexController
 {
 	
-	@ResponseBody
+	/*@ResponseBody
 	@RequestMapping(value="/index")
 	public Map<String,Object> getIndex()
 	{
 		Map<String,Object> hashMap =new HashMap<String, Object>();
 		hashMap.put("你好", "ok");
 		return hashMap;
-	}
+	}*/
 }

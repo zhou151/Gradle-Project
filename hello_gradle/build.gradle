@@ -32,7 +32,7 @@ dependencies {
 	compile group: 'org.springframework', name: 'spring-jdbc', version: "$var.Spring_Version"
 	
 	//持久化层
-	compile group: 'com.alibaba', name: 'druid', version: "$var.Druid__Version"
+	compile group: 'com.alibaba', name: 'druid', version: "$var.Druid_Version"
 	compile group: 'mysql', name: 'mysql-connector-java', version: "$var.Mysql_Connector"
 	compile group: 'org.mybatis', name: 'mybatis', version: "$var.Mybatis_Version"
 	compile group: 'org.mybatis', name: 'mybatis-spring', version: "$var.mybatis_spring_Version"

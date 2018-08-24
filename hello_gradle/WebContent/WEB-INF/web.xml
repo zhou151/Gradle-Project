@@ -19,7 +19,6 @@
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 
-
 	<!-- 配置 SpringIOC -->
 	<listener>
 		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
@@ -38,24 +37,18 @@
 
 	<!-- 欢迎页设置 -->
 	<welcome-file-list>
-		<welcome-file>index.html</welcome-file>
 		<welcome-file>index.jsp</welcome-file>
 	</welcome-file-list>
 
 	<!-- 去掉Spring mvc的静态资源拦截 -->
-	<servlet-mapping>
+	 <servlet-mapping>
 		<servlet-name>default</servlet-name>
 		<url-pattern>/fonts/*</url-pattern>
 		<url-pattern>/font/*</url-pattern>
+		<url-pattern>/css/*</url-pattern>
 		<url-pattern>/img/*</url-pattern>
 		<url-pattern>/js/*</url-pattern>
 		<url-pattern>/static/*</url-pattern>
 		<url-pattern>/webjars/*</url-pattern>
 	</servlet-mapping>
-
-
-	<error-page>
-		<error-code>404</error-code>
-		<location>/static/404.html</location>
-	</error-page>
 </web-app>
