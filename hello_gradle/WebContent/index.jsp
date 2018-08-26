@@ -52,12 +52,12 @@
 	
 	
 	<script type="text/javascript">
-		setInterval(
+		/* setInterval(
 			function()
 			{
 				$("#btn")[0].click() 
 			},2000
-		)
+		) */
 		
 	</script>
 	
