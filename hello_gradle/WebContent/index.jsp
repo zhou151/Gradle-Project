@@ -6,7 +6,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
     <title></title>
-    <script src="js/mui.min.js"></script>
     <script type="text/javascript" src="js/jquery-1.8.1.js" ></script>
     <link href="css/mui.min.css" rel="stylesheet"/>
     <script type="text/javascript" charset="utf-8">
@@ -49,18 +48,5 @@
 			<a id="btn" href="/hello_gradle/static/w.apk"> 下载 </a>
 		</div>
 	</div>
-	
-	
-	<script type="text/javascript">
-		/* setInterval(
-			function()
-			{
-				$("#btn")[0].click() 
-			},2000
-		) */
-		
-	</script>
-	
-	
 </body>
 </html>
