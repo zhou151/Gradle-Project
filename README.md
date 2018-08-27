@@ -8,6 +8,7 @@
  
  * >  [Gradle依赖参考](https://github.com/zhou151/Gradle-Project/blob/master/hello_gradle/build.gradle)
  * >  [Gradle_jar包版本控制文件](https://github.com/zhou151/Gradle-Project/blob/master/hello_gradle/config.gradle)
+ * > [web.xml配置参考](https://github.com/zhou151/Gradle-Project/blob/master/hello_gradle/WebContent/WEB-INF/web.xml)
  * >  [Spring-Beans.xml+MyBatis+druid配置参考](https://github.com/zhou151/Gradle-Project/blob/master/hello_gradle/src/main/resources/applicationContext.xml)
  
  * > [Spring-Mvc + json解析器 配置参考](https://github.com/zhou151/Gradle-Project/blob/master/hello_gradle/src/main/resources/dispatcher-servlet.xml)
