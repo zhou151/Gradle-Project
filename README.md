@@ -8,11 +8,11 @@
  
  * >  [Gradle依赖参考](https://github.com/zhou151/Gradle-Project/blob/master/hello_gradle/build.gradle)
  * >  [Gradle_jar包版本控制文件](https://github.com/zhou151/Gradle-Project/blob/master/hello_gradle/config.gradle)
- * >  [Spring-Beans.xml+MyBatis+Hikaricp配置参考](https://github.com/zhou151/Gradle-Project/blob/master/hello_gradle/src/main/resources/applicationContext.xml)
+ * >  [Spring-Beans.xml+MyBatis+druid配置参考](https://github.com/zhou151/Gradle-Project/blob/master/hello_gradle/src/main/resources/applicationContext.xml)
  
  * > [Spring-Mvc + json解析器 配置参考](https://github.com/zhou151/Gradle-Project/blob/master/hello_gradle/src/main/resources/dispatcher-servlet.xml)
  
- * > [Hikaricp连接池配置参考](https://github.com/zhou151/Gradle-Project/blob/master/hello_gradle/src/main/resources/druid.properties)
+ * > [druid连接池配置参考](https://github.com/zhou151/Gradle-Project/blob/master/hello_gradle/src/main/resources/druid.properties)
 
  * > [Log4j2配置参考](https://github.com/zhou151/Gradle-Project/blob/master/hello_gradle/src/main/resources/log4j2.xml)
  
